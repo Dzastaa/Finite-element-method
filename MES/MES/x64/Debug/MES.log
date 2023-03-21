@@ -1,0 +1,4 @@
+﻿  MES.cpp
+C:\Users\User\Desktop\MES\MES\MES\MES.cpp(327,13): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\User\Desktop\MES\MES\MES\MES.cpp(1106): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: mat
+  MES.vcxproj -> C:\Users\User\Desktop\MES\MES\x64\Debug\MES.exe
